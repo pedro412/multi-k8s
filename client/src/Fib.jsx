@@ -51,7 +51,7 @@ const Fib = () => {
 
   return (
     <div>
-      <h1>Hello!</h1>
+      <h1>Fib Calc Version Kubernetes</h1>
       <form onSubmit={handleSubmit}>
         <label htmlFor="index">Enter your index</label>
         <input
